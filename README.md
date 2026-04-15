@@ -3,9 +3,32 @@
 
 Data acquisition and visualization project at the University of Reykjavik (VIFG - Vinnsla og framsetning gagna). 
 
-Data scraping and analysis scripts focused on football league team experience ("team age") versus league performance, mainly for the English Premier League (EPL).
+## Final report and generated plots
+
+### Abstract
+If you follow the Premier League or any top soccer league for that matter you can’t help but notice the amount of player transfers that happen between teams. Players seem to move quite frequently and short stays are more common than long ones. This is a correct observation, just by looking at the 2016-’17 Premier league season there were 224 individuals playing for a new team. This is in a year when the league had 771 players in total so little less than a third of the league’s players were playing for a new team. This got us thinking if these frequent trades are productive at all, do they translate to success on the pitch, or do younger inexperienced teams with a high player turnover actually achieve less success.
+
+In our research we want to answer a simple question. Do teams that let players stay on their squad for many consecutive years fare better, i.e. is there a correlation between success and how long the players of a football team stay together.
+
+In an attempt to answer this hypothesis we decided to look at the results for the last 20 years in the most popular sporting league in the world, the English Premier League. 
+
+Read the full report here: [final-report.pdf](https://github.com/user-attachments/files/26752584/final-report.pdf)
+
+### Plot 1: Correlation over 20 seasons in the Premier League
+
+<img width="1012" height="600" alt="Plot-SeasonBySeason" src="https://github.com/user-attachments/assets/15e3d1f1-8408-4381-a66c-49e6125a3db6" />
+
+### Plot 2: Comparing the least experienced teams to the most experienced teams every season
+
+<img width="972" height="600" alt="Plot-3MostLeastXP" src="https://github.com/user-attachments/assets/960b3571-dfbc-417a-89ff-fdf9797a23a4" />
+
+### Plot 3: All 20 seasons in a single plot
+
+<img width="1043" height="650" alt="Plot-TeamAgetoPosition" src="https://github.com/user-attachments/assets/f9094ffa-0704-4c95-9b78-81681bf5d1e6" />
 
 ## What this project contains
+
+Data scraping and analysis scripts focused on football league team experience ("team age") versus league performance, mainly for the English Premier League (EPL).
 
 - EPL player scraping from premierleague.com using Selenium + BeautifulSoup.
 - Team-level feature engineering (mean seasons at club, quantiles, etc.).
