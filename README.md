@@ -6,11 +6,11 @@ Data acquisition and visualization project at the University of Reykjavik (VIFG 
 ## Final report and generated plots
 
 ### Abstract
-If you follow the Premier League or any top soccer league for that matter you can’t help but notice the amount of player transfers that happen between teams. Players seem to move quite frequently and short stays are more common than long ones. This is a correct observation, just by looking at the 2016-’17 Premier league season there were 224 individuals playing for a new team. This is in a year when the league had 771 players in total so little less than a third of the league’s players were playing for a new team. This got us thinking if these frequent trades are productive at all, do they translate to success on the pitch, or do younger inexperienced teams with a high player turnover actually achieve less success.
+> If you follow the Premier League or any top soccer league for that matter you can’t help but notice the amount of player transfers that happen between teams. Players seem to move quite frequently and short stays are more common than long ones. This is a correct observation, just by looking at the 2016-’17 Premier league season there were 224 individuals playing for a new team. This is in a year when the league had 771 players in total so little less than a third of the league’s players were playing for a new team. This got us thinking if these frequent trades are productive at all, do they translate to success on the pitch, or do younger inexperienced teams with a high player turnover actually achieve less success.
 
-In our research we want to answer a simple question. Do teams that let players stay on their squad for many consecutive years fare better, i.e. is there a correlation between success and how long the players of a football team stay together.
+> In our research we want to answer a simple question. Do teams that let players stay on their squad for many consecutive years fare better, i.e. is there a correlation between success and how long the players of a football team stay together.
 
-In an attempt to answer this hypothesis we decided to look at the results for the last 20 years in the most popular sporting league in the world, the English Premier League. 
+> In an attempt to answer this hypothesis we decided to look at the results for the last 20 years in the most popular sporting league in the world, the English Premier League. 
 
 Read the full report here: [final-report.pdf](https://github.com/user-attachments/files/26752584/final-report.pdf)
 
